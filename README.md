@@ -1,5 +1,4 @@
-
-**### HEY visitor :wave:
+### HEY visitor :wave:
 
 I am a 15 year old boy who is interested in AI and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
 - 🔭 I’m currently working on Computer Vision and NLP.
